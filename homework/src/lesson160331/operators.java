@@ -33,10 +33,10 @@ public class operators {
          float ff = 1f;
          System.out.println(xx * yy * ff);
          
-         long x1 = 100_000;
-         long x2 = 100_000;
+         long x1 = 100000;
+         long x2 = 100000;
          
-         int z1 = x1 * x2;
+         long z1 = x1 * x2;
          System.out.println(z1);
          
          
