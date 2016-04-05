@@ -6,6 +6,7 @@ public class Task01 {
 		// TODO Auto-generated method stub
 
 		System.out.println(123456789);
+		System.out.println(987654321);
 	}
 
 }
