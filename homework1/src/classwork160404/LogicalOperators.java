@@ -8,7 +8,7 @@ public class LogicalOperators {
 		
 		int y = 5;
 		boolean x = true || (y < 4);
-		boolean x = true | (y < 4);
+		boolean x1 = true | (y < 4);
 		System.out.println(x);
 		
 		boolean a = true;
